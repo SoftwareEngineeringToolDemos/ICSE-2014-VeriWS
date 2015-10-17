@@ -3,7 +3,7 @@ A tool for verification of combined functional and non-functional requirements o
 
 ***
 
-This repository is contains information related to the tool VeriWS presented in International Conference on Software Engineering, 2014. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=2591070).
+This repository contains information related to the tool VeriWS presented in International Conference on Software Engineering, 2014. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=2591070).
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 * [A Video of the Tool](https://sites.google.com/site/veriwstool/)
