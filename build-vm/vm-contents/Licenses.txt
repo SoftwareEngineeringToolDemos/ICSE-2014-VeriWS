@@ -1,0 +1,11 @@
+********************
+Licenses for this VM
+********************
+
+1. Oracle Virtual Box 5.0.6
+The VirtualBox Open Source Edition is licensed under the GPL V2. (Some parts of VirtualBox, especially libraries, may also be released under other licenses as well.)
+
+The full text of the license is available here:  http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+2. VeriWS
+The authors did not give any permission for this tool and it is not allowed to be redistributed.
