@@ -1,8 +1,13 @@
 VeriWS
 ------
 
+
 This is a standalone binary for the tool VeriWS developed by Manman Chen and colleagues.
 
-There is no installation needed. Please read "Readme.txt" to know how to get started with the tool.
+
+There is no installation needed. 
+Please read "Readme.txt" to know how to get started with the tool.
+
+
 
 A usage example is given in the youtube shortcut "How To Use VeriWS on this VM" on the Desktop.
